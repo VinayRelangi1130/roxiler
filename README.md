@@ -1,5 +1,4 @@
-### Published Frontend Project
-https://roxiler-frontend-srinivas-project.vercel.app
+
 
 # Frontend Task
 
